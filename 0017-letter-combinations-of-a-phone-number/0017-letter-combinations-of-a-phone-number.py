@@ -5,7 +5,7 @@ class Solution:
         if(len(digits) ==0):
             return ans
 
-        def solve(digits , ans , dict1 , index , temp):
+        def solve(digits , ans , index , temp):
 
             if index == len(digits):
                 ans.append(temp)
@@ -14,8 +14,8 @@ class Solution:
             # val = dict1[digits[index]]
             for i in dict1[digits[index]]:
                 # temp += i
-                solve(digits , ans , dict1 , index+1 , temp+i)
+                solve(digits , ans  , index+1 , temp+i)
 
         
-        solve(digits , ans , dict1 , 0 , "")
+        solve(digits , ans  , 0 , "")
         return ans
