@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0807-custom-sort-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2406-decode-the-message) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0242-valid-anagram) |
 | [0807-custom-sort-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0807-custom-sort-string) |
 ## Math
 |  |
