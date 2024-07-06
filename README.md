@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0807-custom-sort-string) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
