@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-decode-the-message](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2406-decode-the-message) |
+## Array
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
