@@ -9,24 +9,15 @@ public:
     }
     int numberOfBeams(vector<string>& bank) {
         int ans = 0;
-        vector<int> device;
-        for(auto row : bank){
-            device.push_back(countB(row));
-
-        }
-
-        for(int i = 0; i<device.size();i++){
-            int j = i+1;
-            while(j<device.size()){
-                ans += device[i]* device[j];
-                if(device[j] == 0){
-                    j++;
-                }
-                else{
-                    break;
-                }
+        int prev_count = 0;
+        for (int i = 0; i < bank.size(); i++) {
+            int current_count = countB(bank[i]);
+            if (current_count > 0) {
+                ans += prev_count * current_count;
+                prev_count = current_count;
             }
         }
-        return ans ;
+        return ans;
+
     }
 };
