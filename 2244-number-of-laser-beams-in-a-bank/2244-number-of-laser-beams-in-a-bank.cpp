@@ -8,6 +8,11 @@ public:
         return c;
     }
     int numberOfBeams(vector<string>& bank) {
+        if(bank.size()<2){
+            return 0 ;
+        }
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int ans = 0;
         int prev_count = 0;
         for (int i = 0; i < bank.size(); i++) {
