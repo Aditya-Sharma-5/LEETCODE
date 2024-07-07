@@ -61,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
+| [1642-water-bottles](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Trie
 |  |
