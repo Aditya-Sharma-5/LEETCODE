@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
