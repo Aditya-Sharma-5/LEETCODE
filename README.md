@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
+| [1803-average-waiting-time](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2645-pass-the-pillow) |
 ## Trie
