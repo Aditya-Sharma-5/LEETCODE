@@ -1,14 +1,12 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        
-        int available_at = 0;
-        double total_wait = 0;
-        for (auto& customer : customers) {
-            int arrival = customer[0], t = customer[1];
-            available_at = max(available_at, arrival) + t;
-            total_wait += available_at - arrival;
+        double count = 0, curr = 0;
+        for(auto& a : customers)
+        {
+            curr = max(curr, a[0] * 1.0) + a[1];
+            count += curr - a[0];
         }
-        return (double) total_wait / customers.size();
+        return count / customers.size();
     }
 };
