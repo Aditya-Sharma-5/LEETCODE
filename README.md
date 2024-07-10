@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2406-decode-the-message) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
+| [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
