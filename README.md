@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
+| [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 | [1803-average-waiting-time](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -114,12 +116,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 ## Bitmask
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
+| [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 <!---LeetCode Topics End-->
