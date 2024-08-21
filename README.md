@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0204-count-primes) |
+| [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
