@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0539-minimum-time-difference) |
 | [0926-find-and-replace-pattern](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0926-find-and-replace-pattern) |
+| [1002-maximum-width-ramp](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1720-crawler-log-folder](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1758-distribute-repeating-integers](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1758-distribute-repeating-integers) |
 | [1803-average-waiting-time](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1803-average-waiting-time) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
