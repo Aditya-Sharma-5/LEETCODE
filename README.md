@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Aditya-Sharma-5/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
